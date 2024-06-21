@@ -1,0 +1,3 @@
+## 3. Methodik
+
+Aufgrund der neuen Gesetzgebung gibt es in Hinblick auf die Auswirkungen der KIV eingeschränkte Literatur, daher ersucht die vorliegende wissenschaftliche Arbeit die Extraktion der wichtigsten Anforderungen auf Basis des Corrigendums der KIV und schätzt die Anforderungen für Unternehmen basierend auf der aktuellen Literatur grundsätzlich ein. Eine allumfassende Einordnung wäre vorliegend abhängig von Aspekten, wie Gesamtumsatz des Unternehmens zu Zwecken der Risikokartierung, welche die Analyse eines konkreten Use Cases ermöglichen würden. Obgleich die KIV Anforderungen für den öffentlichen Bereich enthält, fokussiert sich die vorliegende Arbeit auf den privatwirtschaftlichen Bereich.
